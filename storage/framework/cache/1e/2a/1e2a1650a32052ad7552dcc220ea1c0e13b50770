@@ -1,0 +1,17 @@
+1599520440a:1:{s:26:"home_page/section_four.htm";a:6:{s:8:"fileName";s:26:"home_page/section_four.htm";s:7:"content";s:255:"[contactForm]
+injectBootstrapAssets = 1
+injectMainScript = 1
+==
+<section id="contacto" class="main">
+    <header class="major">
+        <h2>Contáctanos</h2>
+        <p>Dejanos saber que opinas de nuestra comunidad.</p>
+    </header>
+
+</section>";s:5:"mtime";i:1599519823;s:6:"markup";s:187:"<section id="contacto" class="main">
+    <header class="major">
+        <h2>Contáctanos</h2>
+        <p>Dejanos saber que opinas de nuestra comunidad.</p>
+    </header>
+
+</section>";s:4:"code";N;s:11:"contactForm";a:2:{s:21:"injectBootstrapAssets";s:1:"1";s:16:"injectMainScript";s:1:"1";}}}

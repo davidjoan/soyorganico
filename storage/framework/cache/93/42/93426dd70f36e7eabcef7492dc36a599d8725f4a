@@ -1,0 +1,52 @@
+1599523890a:1:{s:20:"all_pages/footer.htm";a:6:{s:8:"fileName";s:20:"all_pages/footer.htm";s:7:"content";s:1470:"==
+<!-- Footer -->
+<footer id="footer">
+    <section>
+        <h2>Sobre Patt fresh</h2>
+        <p>PATT FRESH es una empresa dedicada a la producción y comercialización de frutas y verduras exóticas orgánicas para el mercado retail y exportación. Nos especializamos en las distintas variedades de plátanos, así como de snacks deshidratados.</p>
+    </section>
+    <section>
+        <h2>Dirección</h2>
+        <dl class="alt">
+            <dt>Oficina</dt>
+            <dd>Jr. Augusto Durand Nro. 2534 San Luis - Lima  - Perú</dd>
+            <dt>Teléfono</dt>
+            <dd>(+51) 01 324-8232 </dd>
+            <dt>Correo</dt>
+            <dd><a href="#">pattfresh@pattfresh.com</a></dd>
+        </dl>
+        <ul class="icons">
+            <li><a href="#" class="icon fa-twitter alt" alt="Twitter"><span class="label">Twitter</span></a></li>
+            <li><a href="https://www.facebook.com/pattfresh" class="icon fa-facebook alt"><span class="label">Facebook</span></a></li>
+            <li><a href="#" class="icon fa-instagram alt"><span class="label">Instagram</span></a></li>
+            <li><a href="#" class="icon fa-youtube alt"><span class="label">Youtube</span></a></li>
+            <li><a href="#" class="icon fa-spotify alt"><span class="label">Spotify</span></a></li>
+        </ul>
+    </section>
+    <p class="copyright">&copy; Creado por: <a href="https://www.facebook.com/pattfresh">Pattfresh Perú</a>.</p>
+</footer>";s:5:"mtime";i:1599523286;s:6:"markup";s:1466:"<!-- Footer -->
+<footer id="footer">
+    <section>
+        <h2>Sobre Patt fresh</h2>
+        <p>PATT FRESH es una empresa dedicada a la producción y comercialización de frutas y verduras exóticas orgánicas para el mercado retail y exportación. Nos especializamos en las distintas variedades de plátanos, así como de snacks deshidratados.</p>
+    </section>
+    <section>
+        <h2>Dirección</h2>
+        <dl class="alt">
+            <dt>Oficina</dt>
+            <dd>Jr. Augusto Durand Nro. 2534 San Luis - Lima  - Perú</dd>
+            <dt>Teléfono</dt>
+            <dd>(+51) 01 324-8232 </dd>
+            <dt>Correo</dt>
+            <dd><a href="#">pattfresh@pattfresh.com</a></dd>
+        </dl>
+        <ul class="icons">
+            <li><a href="#" class="icon fa-twitter alt" alt="Twitter"><span class="label">Twitter</span></a></li>
+            <li><a href="https://www.facebook.com/pattfresh" class="icon fa-facebook alt"><span class="label">Facebook</span></a></li>
+            <li><a href="#" class="icon fa-instagram alt"><span class="label">Instagram</span></a></li>
+            <li><a href="#" class="icon fa-youtube alt"><span class="label">Youtube</span></a></li>
+            <li><a href="#" class="icon fa-spotify alt"><span class="label">Spotify</span></a></li>
+        </ul>
+    </section>
+    <p class="copyright">&copy; Creado por: <a href="https://www.facebook.com/pattfresh">Pattfresh Perú</a>.</p>
+</footer>";s:4:"code";N;s:17:"_PARSER_ERROR_INI";s:0:"";}}

@@ -1,0 +1,25 @@
+1599523005a:1:{s:30:"home_page/section_contacto.htm";a:6:{s:8:"fileName";s:30:"home_page/section_contacto.htm";s:7:"content";s:308:"[contactForm]
+injectBootstrapAssets = 1
+injectMainScript = 1
+==
+<section id="contacto" class="main">
+    <header class="major">
+        <h2>Contáctanos</h2>
+        <p>Dejanos saber que opinas de nuestra comunidad.</p>
+    </header>
+    
+    {% component 'contactForm' %}
+    
+    
+
+</section>";s:5:"mtime";i:1599520034;s:6:"markup";s:240:"<section id="contacto" class="main">
+    <header class="major">
+        <h2>Contáctanos</h2>
+        <p>Dejanos saber que opinas de nuestra comunidad.</p>
+    </header>
+    
+    {% component 'contactForm' %}
+    
+    
+
+</section>";s:4:"code";N;s:11:"contactForm";a:2:{s:21:"injectBootstrapAssets";s:1:"1";s:16:"injectMainScript";s:1:"1";}}}

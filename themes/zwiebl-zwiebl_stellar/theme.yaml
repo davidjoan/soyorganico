@@ -1,0 +1,8 @@
+name: 'Soy Orgánico'
+description: 'Come sano, vive sano.'
+author: 'David Tataje'
+homepage: 'https://soyorganico.pe'
+code: zwiebl_stellar
+form: fields.yaml
+require:
+    - RainLab.Blog
