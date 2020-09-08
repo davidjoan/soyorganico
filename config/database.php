@@ -51,8 +51,21 @@ return [
             'database' => 'storage/database.sqlite',
             'prefix'   => '',
         ],
-
+/*
         'mysql' => [
+            'driver'     => 'mysql',
+            'engine'     => 'InnoDB',
+            'host'       => 'localhost',
+            'port'       => 3306,
+            'database'   => 'soyorganico',
+            'username'   => 'soyorganico',
+            'password'   => 'soyorganico',
+            'charset'    => 'utf8mb4',
+            'collation'  => 'utf8mb4_unicode_ci',
+            'prefix'     => '',
+            'varcharmax' => 191,
+        ],*/
+		 'mysql' => [
             'driver'     => 'mysql',
             'engine'     => 'InnoDB',
             'host'       => 'us-cdbr-east-02.cleardb.com',
@@ -64,7 +77,7 @@ return [
             'collation'  => 'utf8mb4_unicode_ci',
             'prefix'     => '',
             'varcharmax' => 191,
-        ],
+        ],*/
 
         'pgsql' => [
             'driver'   => 'pgsql',
